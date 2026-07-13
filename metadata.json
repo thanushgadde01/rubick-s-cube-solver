@@ -1,0 +1,6 @@
+{
+  "name": "CubeSolve",
+  "description": "A 3D virtual Rubik's Cube solver with step-by-step playback controls, scramble generator, and session statistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

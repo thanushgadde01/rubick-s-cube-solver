@@ -1,0 +1,4753 @@
+﻿[
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.139",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.139",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.139",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.139",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64",
+    "expo-file-system": ">=11.0"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64",
+    "expo-file-system": ">=11.0"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64",
+    "expo-file-system": ">=11.0"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64",
+    "expo-file-system": ">=11.0"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64",
+    "expo-file-system": ">=11.0"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64",
+    "expo-file-system": ">=11.0"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64",
+    "expo-file-system": ">=11.0"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64",
+    "expo-file-system": ">=11.0"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64",
+    "expo-file-system": ">=11.0"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64",
+    "expo-file-system": ">=11.0"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64",
+    "expo-file-system": ">=11.0"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64",
+    "expo-file-system": ">=11.0"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64",
+    "expo-file-system": ">=11.0"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64",
+    "expo-file-system": ">=11.0"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64",
+    "expo-file-system": ">=11.0"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64",
+    "expo-file-system": ">=11.0"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64",
+    "expo-file-system": ">=11.0"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64",
+    "expo-file-system": ">=11.0"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64",
+    "expo-file-system": ">=11.0"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64",
+    "expo-file-system": ">=11.0"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64",
+    "expo-file-system": ">=11.0"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64",
+    "expo-file-system": ">=11.0"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64",
+    "expo-file-system": ">=11.0"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64",
+    "expo-file-system": ">=11.0"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64",
+    "expo-file-system": ">=11.0"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64",
+    "expo-file-system": ">=11.0"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64",
+    "expo-file-system": ">=11.0"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64",
+    "expo-file-system": ">=11.0"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64",
+    "expo-file-system": ">=11.0"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64",
+    "expo-file-system": ">=11.0"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64",
+    "expo-file-system": ">=11.0"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64",
+    "expo-file-system": ">=11.0"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64",
+    "expo-file-system": ">=11.0"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64",
+    "expo-file-system": ">=11.0"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64",
+    "expo-file-system": ">=11.0"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64",
+    "expo-file-system": ">=11.0"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64",
+    "expo-file-system": ">=11.0"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64",
+    "expo-file-system": ">=11.0"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64",
+    "expo-file-system": ">=11.0"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64",
+    "expo-file-system": ">=11.0"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64",
+    "expo-file-system": ">=11.0"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64",
+    "expo-file-system": ">=11.0"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64",
+    "expo-file-system": ">=11.0"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64",
+    "expo-file-system": ">=11.0"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64",
+    "expo-file-system": ">=11.0"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64",
+    "expo-file-system": ">=11.0"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64",
+    "expo-file-system": ">=11.0"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64",
+    "expo-file-system": ">=11.0"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18.0",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18.0",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64",
+    "expo-file-system": ">=11.0"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18 <19",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18 <19",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64",
+    "expo-file-system": ">=11.0"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18 <19",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18 <19",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64",
+    "expo-file-system": ">=11.0"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18 <19",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18 <19",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64",
+    "expo-file-system": ">=11.0"
+  },
+  {
+    "expo": ">=43.0",
+    "react": ">=18 <19",
+    "three": ">=0.133",
+    "expo-gl": ">=11.0",
+    "react-dom": ">=18 <19",
+    "expo-asset": ">=8.4",
+    "react-native": ">=0.64",
+    "expo-file-system": ">=11.0"
+  }
+]
+[
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": ">=18.0",
+    "three": ">=0.137",
+    "react-dom": ">=18.0",
+    "@react-three/fiber": ">=8.0"
+  },
+  {
+    "react": "^18",
+    "three": ">=0.137",
+    "react-dom": "^18",
+    "@react-three/fiber": "^8"
+  },
+  {
+    "react": "^18",
+    "three": ">=0.137",
+    "react-dom": "^18",
+    "@react-three/fiber": "^8"
+  },
+  {
+    "react": "^18",
+    "three": ">=0.137",
+    "react-dom": "^18",
+    "@react-three/fiber": "^8"
+  },
+  {
+    "react": "^18",
+    "three": ">=0.137",
+    "react-dom": "^18",
+    "@react-three/fiber": "^8 || ^9.0.0-0"
+  },
+  {
+    "react": "^18",
+    "three": ">=0.137",
+    "react-dom": "^18",
+    "@react-three/fiber": "^8 || ^9.0.0-0"
+  },
+  {
+    "react": "^18",
+    "three": ">=0.137",
+    "react-dom": "^18",
+    "@react-three/fiber": "^8 || ^9.0.0-0"
+  },
+  {
+    "react": "^18",
+    "three": ">=0.137",
+    "react-dom": "^18",
+    "@react-three/fiber": "^8 || ^9.0.0-0"
+  },
+  {
+    "react": "^18",
+    "three": ">=0.137",
+    "react-dom": "^18",
+    "@react-three/fiber": "^8 || ^9.0.0-0"
+  },
+  {
+    "react": "^18",
+    "three": ">=0.137",
+    "react-dom": "^18",
+    "@react-three/fiber": "^8 || ^9.0.0-0"
+  },
+  {
+    "react": "^18",
+    "three": ">=0.137",
+    "react-dom": "^18",
+    "@react-three/fiber": "^8 || ^9.0.0-0"
+  },
+  {
+    "react": "^18",
+    "three": ">=0.137",
+    "react-dom": "^18",
+    "@react-three/fiber": "^8 || ^9.0.0-0"
+  },
+  {
+    "react": "^18",
+    "three": ">=0.137",
+    "react-dom": "^18",
+    "@react-three/fiber": "^8"
+  },
+  {
+    "react": "^18",
+    "three": ">=0.137",
+    "react-dom": "^18",
+    "@react-three/fiber": "^8"
+  },
+  {
+    "react": "^18",
+    "three": ">=0.137",
+    "react-dom": "^18",
+    "@react-three/fiber": "^8"
+  },
+  {
+    "react": "^18",
+    "three": ">=0.137",
+    "react-dom": "^18",
+    "@react-three/fiber": "^8"
+  },
+  {
+    "react": "^18",
+    "three": ">=0.137",
+    "react-dom": "^18",
+    "@react-three/fiber": "^8"
+  }
+]
+[
+  {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
+]
+{
+  "error": {
+    "code": "E404",
+    "summary": "No match found for version 6.10.0",
+    "detail": "'@types/react-router-dom@6.10.0' is not in this registry.\n\nNote that you can also install from a\ntarball, folder, http url, or git url."
+  }
+}

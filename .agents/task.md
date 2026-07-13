@@ -1,0 +1,25 @@
+# Task Checklist
+
+- `[x]` **Phase 0 & 1: Dependencies, Environment Setup & Store refinement**
+  - `[x]` Install `@supabase/supabase-js` and `lucide-react`
+  - `[x]` Create `.env.example`
+  - `[x]` Implement Supabase Client fallback structure
+- `[x]` **Phase 2 & 3: 3D Cube Scene & Rendering Engine**
+  - `[x]` Map 54-facelet representation to 3D cube stickers
+  - `[x]` Implement 26-cubie rendering in `CubeScene` with proper stickers
+  - `[x]` Support face rotations and turn animations
+- `[x]` **Phase 4 & 5: Playback Controls & Solved Celebrations**
+  - `[x]` Integrate play, pause, speed, step forward/backward, and scrubbing in `cubeStore`
+  - `[x]` Create bottom control bar UI
+  - `[x]` Show celebration state on solution completion
+- `[x]` **Phase 6: UI Polish, Help Overlay & Responsiveness**
+  - `[x]` Build persistent layout with `Navbar`
+  - `[x]` Create `TutorialOverlay` for first-time instruction
+  - `[x]` Ensure tablet/mobile layout adapts seamlessly
+- `[x]` **Phase 7 & 8: Auth & History Pages**
+  - `[x]` Create `AuthPage` with sign-in and sign-up states
+  - `[x]` Create `HistoryPage` displaying past solves and guest history fallback
+  - `[x]` Set up React Router path bindings in `App.tsx`
+- `[x]` **Phase 9 & 10: Verification & Build Checks**
+  - `[x]` Run test cases and lint checks
+  - `[x]` Perform final build test
